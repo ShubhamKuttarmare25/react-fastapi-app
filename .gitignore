@@ -1,0 +1,33 @@
+# Python
+myvenv/
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# FastAPI logs, SQLite DB, etc.
+*.log
+*.db
+
+# Node
+React/node_modules/
+React/build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# OS-specific
+.idea/
+*.swp
+
+# Pytest cache
+.pytest_cache/
